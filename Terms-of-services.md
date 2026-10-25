@@ -89,7 +89,9 @@ En cas de manquement aux présentes Conditions ou aux règles du serveur, les me
 
 ## Article 9 – Données personnelles, transcripts et politique de confidentialité
 
-Le Bot traite des données personnelles au sens de la loi n° 78-17 du 6 janvier 1978 modifiée (Informatique et Libertés) et du Règlement général sur la protection des données (RGPD). Le présent article vaut politique de confidentialité : il décrit précisément les données collectées, leur utilisation, leur partage et les moyens de demander leur suppression.
+Le Bot traite des données personnelles au sens de la loi n° 78-17 du 6 janvier 1978 modifiée (Informatique et Libertés) et du Règlement général sur la protection des données (RGPD).
+
+> 📄 **Pour le détail complet**, consultez la [Charte de confidentialité](./CHARTE_DE_CONFIDENTIALITE.md) qui accompagne les présentes Conditions. Le présent article en constitue un résumé.
 
 ### 9.1 – Données collectées
 
