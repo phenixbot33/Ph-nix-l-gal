@@ -1,4 +1,4 @@
-# Charte de confidentialité — Phénix Bot (Phénix Support)
+# Charte de confidentialité — Phénix Bot (Phénix)
 
 **Dernière mise à jour : 25 octobre 2026**
 
