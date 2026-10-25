@@ -1,0 +1,25 @@
+{
+  "name": "phenix-bot",
+  "version": "2.0.0",
+  "description": "Phénix Bot - Discord support bot with RGPD compliance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "support",
+    "rgpd",
+    "gdpr"
+  ],
+  "author": "Phénix",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
