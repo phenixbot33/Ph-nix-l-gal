@@ -1,0 +1,39 @@
+# Configuration et secrets
+config.json
+.env
+.env.local
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Base de données locale
+support.db
+*.db
+
+# Logs
+logs/
+*.log
+
+# Exports temporaires
+export_*.json
+*.tmp
+
+# Système
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Google Drive (fichiers téléchargés)
+google_drive/
